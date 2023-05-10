@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/InfosecBridge/static/css/main.6bd1afc8.css",
+    "main.js": "/InfosecBridge/static/js/main.beca555f.js",
+    "static/js/787.0420ccf9.chunk.js": "/InfosecBridge/static/js/787.0420ccf9.chunk.js",
+    "static/media/Ellipse.png": "/InfosecBridge/static/media/Ellipse.69b15c91f5e2cf78a04e.png",
+    "static/media/logo.svg": "/InfosecBridge/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/InfosecBridge/index.html",
+    "main.6bd1afc8.css.map": "/InfosecBridge/static/css/main.6bd1afc8.css.map",
+    "main.beca555f.js.map": "/InfosecBridge/static/js/main.beca555f.js.map",
+    "787.0420ccf9.chunk.js.map": "/InfosecBridge/static/js/787.0420ccf9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bd1afc8.css",
+    "static/js/main.beca555f.js"
+  ]
+}
