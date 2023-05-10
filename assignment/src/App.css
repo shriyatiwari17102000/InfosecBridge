@@ -1,0 +1,140 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+/* .css-u4tvz2-MuiFormLabel-root{
+  position: absolute !important;
+  top: 0px !important;
+    left: 0px !important;
+    width: 126px !important;
+    height: 15px !important;
+    text-align: left !important;
+    font: normal normal normal 13px/17px Rubik !important;
+    letter-spacing: 0px !important;
+    color: #1D2226;
+} */
+
+.css-1nrlq1o-MuiFormControl-root{
+  position: absolute;
+  top: 486px;
+  left: 20px;
+  width: 132px;
+  height: 47px;
+}
+
+.MuiFormLabel-asterisk{
+  color: red !important;
+}
+.MuiFormLabel-root{
+  color: #6C25FF !important;
+}
+.css-qfz70r-MuiFormGroup-root{
+  width: 164px;
+}
+.css-1yawvqq-MuiFormLabel-root{
+position: relative !important;
+color:#1D2226 !important ;
+}
+.MuiFormControlLabel-label{
+  font-size: 14px !important;
+}
+.css-vqmohf-MuiButtonBase-root-MuiRadio-root.Mui-checked {
+  color:#6C25FF !important ;
+}
+/* .css-vqmohf-MuiButtonBase-root-MuiRadio-root{
+  margin-left: 23px !important;
+} */
+.css-vqmohf-MuiButtonBase-root-MuiRadio-root{
+  margin-left: 19px;
+}
+.ellipse_img{
+  position: absolute  !important;
+    top: 98px !important;
+    left: 20px !important;
+    width: 76px !important;
+    height: 76px !important;
+    opacity: 1 !important;
+}
+.camera_img {
+  position: absolute !important;
+  top: 147px !important;
+  left: 79px !important;
+  width: 21px !important;
+  height: 23px !important;
+  opacity: 1 !important;
+}
+.para_1{
+  position: absolute !important;
+    top: 98px !important;
+    left: 116px !important;
+    width: 73px !important;
+    height: 18px !important;
+    text-align: left !important;
+    font-family: "Rubik" !important;
+    font-weight: 600 !important;
+    font-size: 15px !important;
+    letter-spacing: 0px !important;
+    color: #1D2226 !important;
+    text-transform: capitalize !important;
+    opacity: 1 !important;
+}
+.para_2{
+  position: absolute !important;
+  top: 122px !important;
+  left: 116px !important;
+  width: 118px !important;
+  height: 17px !important;
+  text-align: left !important;
+  font: normal normal normal 14px/19px Rubik !important;
+  letter-spacing: 0px !important;
+  color: #1D2226 !important;
+  text-transform: capitalize !important;
+  opacity: 1 !important;
+}
+.para_3{
+  position: absolute !important;
+    top: 204px !important;
+    left: 20px !important;
+    width: 337px !important;
+    height: 63px !important;
+    text-align: left !important;
+    font: normal normal normal 14px/22px Rubik !important;
+    letter-spacing: 0px !important;
+    color: #1D2226 !important;
+    text-transform: capitalize !important;
+    opacity: 1 !important;
+}
